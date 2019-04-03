@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#main{
+    margin:25px auto;
+    padding:20px;
+    border:0px solid;
+    border-radius:10px;
+    background:rgb(209, 202, 202);
+  }
+  img{
+    max-width: 100%; 
+    display: block; 
+    height: auto;
+    margin: auto;
+  }
+  #img-div{
+    margin:-5px;
+    margin-top:25px;
+    width:100%;
+    border:5px solid white;
+    background:white;
+  }
+  #img-caption{
+    margin:20px;
+  }
+  #headline{
+    margin-top:45px;
+    text-align:left;
+  }
+  #link {
+      margin-bottom: 30px;
+  }
+  ul{
+    max-width:550px;
+    margin:0 auto;
+    text-align:left;
+  }
+  li{
+    margin: 10px;
+  }
